@@ -17,9 +17,11 @@ public class Employee {
     }
 }
 
+/*
 // Separate class for report generation as per SRP
 class EmployeeReportGenerator {
     public void generateReport(Employee employee) {
         System.out.println("Employee Report: " + employee.getName() + " - " + employee.getPosition());
     }
 }
+*/
